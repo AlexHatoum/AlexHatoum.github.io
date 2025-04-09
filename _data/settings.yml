@@ -1,17 +1,13 @@
 #----------------------
 # About section
 
-blurb: <p><strong>Chemistry, medicine, and the human condition.</strong> I am a budding chemist, soon to be on the job market. My research interests are in the areas of psychological disorders, chemical imbalances, and psychiatric pharmacology. My doctoral disertation was on repressing psychotic tendancies with household serums and I plan to continue this research... at all costs.</p>
+blurb: <p><strong>Welcome! This is the website for the PsyBORG lab (Psychiatrty Biostatistic Opitimized Research Gadgets lab). We are a research lab in the department of psychiatry at the Washington Univeristy School of Medicine. We are located in St. Louis, Missouri. 
+The PsychBORG lab is led by Professor Alexander S. Hatoum. </p>
 
-#----------------------
-# Courses section
-courses:
-  - {title: Intro to Chem, semester: Fall 1885, school: King's College London, description: Teaching students chemistry isn't only for witches., link: courses/temp_course }
-  - {title: Advanced Psychiatric Medicine, semester: Spring 1885, school: King's College London, description: At the time, mainly lobotomy., link: courses/temp_course }
-  - {title: Diseases of the Mind, semester: Fall 1884, school: King's College London, description: Survey course. Mainly taught by example., link: courses/temp_course }
+
 #----------------------
 # Contact
-contact-info: <p>Henry Jekyll<br>King's College London<br>Department of Chemistry<br>Strand<br>London<br>WC2R 2LS<br>United Kingdom</p>
+contact-info: <p>Alexander S. Hatoum<br> Washington University School of Medicine <br>Department of Psychiatry<br>St. Louis<br>Missouri<br>WC2R 2LS<br>USA</p>
 
 contact-links:
-  - {contact-text: Github, contact-link: "https://www.google.com", icon: 'favicon.html'}
+  - {contact-text: ashatoum@wustl.edu, contact-link: "https://scholar.google.com/citations?user=VkJlMN0AAAAJ&hl=en&oi=ao", icon: 'favicon.html'}
